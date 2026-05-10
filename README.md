@@ -5,12 +5,12 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Giovanni Oliveira Martins Rosa
+- Matricula: 908174
 
 ## Print do console do navegador
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](console.png)
 
 
 
